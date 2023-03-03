@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "78EB0D29-E821-4B65-A06B-7014BC542A5C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1798F1F1-287F-4422-807D-1BAFA2C554CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Start/TodoItem.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1798F1F1-287F-4422-807D-1BAFA2C554CA - 5026afb5bcfcccfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of Start.TodoItem.errorView : some&gt;&gt;.0, Start.TodoListView)&gt; in Start.TodoItem.body.getter : some"
+                  moduleName = "Start"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Enes_Igneci/Desktop/iOS/Start/Start/TodoItem.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "1798F1F1-287F-4422-807D-1BAFA2C554CA - 63d2cbe9e3d8d1a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Start.Todo) -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of Start.TodoItem.errorView : some&gt;&gt;.0, Start.TodoListView)&gt; in Start.TodoItem.body.getter : some"
+                  moduleName = "Start"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Enes_Igneci/Desktop/iOS/Start/Start/TodoItem.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
